@@ -1,6 +1,8 @@
-## Welcome to Summer Coding Series 2018
+## Welcome to the Summer Coding Series 2018
 
 Here you will find links to all the assignment problem statements, tutorials, and useful resources. First assignment is already up and deadline is Saturday, 19th May.
+
+1. [Assignment 1](a1)
 
 <!--
 ## Welcome to GitHub Pages
