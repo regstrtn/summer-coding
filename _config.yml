@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 name: Summer Coding Series
+---
+layout: default
+title: Summer Coding Series
+---
