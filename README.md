@@ -8,7 +8,9 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 ```
 
-1. [Assignment 1](a1)
+1. [Assignment 1]
+  - [Submission Link](https://drive.google.com/drive/folders/1o8IOsJCed_4aiN9YR8jQdKtmLz-ZP-Ko) 
+  - [Problem Statement](a1)
 
 <!--
 ## Welcome to GitHub Pages
