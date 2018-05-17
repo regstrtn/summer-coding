@@ -3,7 +3,9 @@
 Here you will find links to all the assignment problem statements, tutorials, and useful resources. 
 
 ```diff
+
 + First assignment is already up and deadline is Saturday, 19th May.
+
 ```diff
 
 1. [Assignment 1](a1)
