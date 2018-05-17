@@ -14,6 +14,6 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 #### 1. Assignment 1
   - [Submission Link](https://drive.google.com/drive/folders/1o8IOsJCed_4aiN9YR8jQdKtmLz-ZP-Ko) 
-  - [Problem Statement](https://github.com/regstrtn/summer-coding/a1)
+  - [Problem Statement](https://github.com/regstrtn/summer-coding/tree/master/a1)
 
 ----------------
