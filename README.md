@@ -2,7 +2,7 @@
 
 Here you will find links to all the assignment problem statements, tutorials, and useful resources. 
 
-#### *Enrol yourself by entering your details in this [google form](https://docs.google.com/forms/d/1shb0PzRszrF47j31K58COCwauy6kpRwvwdu4eZU32Eg/edit#responses). *
+#### *Enrol yourself by entering your details in this [google form](https://docs.google.com/forms/d/1shb0PzRszrF47j31K58COCwauy6kpRwvwdu4eZU32Eg/edit#responses).*
 
 ```diff
 
