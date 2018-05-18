@@ -15,4 +15,4 @@ At the beginning of each assignment, I will be giving you all very few test case
 
 #### How to 'push' those changes to the original repository that is owned by me? 
 - Navigate to my original repository. At the top, you will see a few tabs, the third tab is called "Pull requests". Click on it. 
-- There will be a green colored button "New Pull Request". Click on it. Follow the instructions, and done. :) Now I can go and approve that request and your test cases will show up in the original test case file. 
+- There will be a green colored button "New Pull Request". Click on it. Follow the instructions, and done. :) Now I can go and approve that request and your test cases will show up in the original test cases file. Now anyone can download and test their code on those test cases. 
