@@ -1,3 +1,4 @@
+The number of assignments is not fixed, but it will obviously be more than 5. :)
 
 
 | Name | A1 | A2 | A3 | A4 | A5 |
