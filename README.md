@@ -4,6 +4,9 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 #### *Enrol yourself by entering your details in this [google form](https://docs.google.com/forms/d/1shb0PzRszrF47j31K58COCwauy6kpRwvwdu4eZU32Eg/edit#responses).*
 
+*Individual performance can be checked [here](https://github.com/regstrtn/summer-coding/tree/master/instructions/perftable.md).*
+
+
 ```diff
 
 + First assignment is already up and deadline is Saturday, 19th May.
@@ -27,4 +30,3 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 ----------------
 
-{% include_relative tree/master/instructions/perftable.md %}
