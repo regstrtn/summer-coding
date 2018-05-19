@@ -6,7 +6,7 @@
 | Himanshu Singh | 
 | Anwesha Samaddar | 
 | Inderpreet Kaur | 
-| Divyang Mittal | :white_check_mark | 
+| Divyang Mittal | :white_check_mark: | 
 | Arif Raza | 
 | Shah Nawaz Alam | 
 | Stuti Gupta |
