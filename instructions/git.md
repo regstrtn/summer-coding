@@ -9,7 +9,7 @@ At the beginning of each assignment, I will be giving you all very few test case
 #### How to make changes to the 'input' file?
 - This is slightly complicated, but don't worry. Firstly, make an account on github.com
 - Go to [https://github.com/regstrtn/summer-coding](https://github.com/regstrtn/summer-coding). This is the 'repository', or 'folder' containing all our assignments. Now this repository/folder is owned by me, so you can't make any changes to it directly.  
-- At the top right, there will be a green colored "Clone or download" button. Click on it. This will create a copy of the repository in your own account. 
+- At the very top right, there will be a button called "Fork". Click on it. This will create a copy of the repository in your own account. 
 - In your cloned repository, navigate to a1 folder. There you will see the file "input1". 
 - Download the file, add test cases to it. Then again, in the top right, you will see "Upload files" button. Click on it, upload your "input" file, click the green Commit button at the bottom. 
 
