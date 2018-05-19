@@ -27,4 +27,4 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 ----------------
 
-{% include_relative instructions/perftable.md %}
+{% include_relative tree/master/instructions/perftable.md %}
