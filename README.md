@@ -26,3 +26,5 @@ Here you will find links to all the assignment problem statements, tutorials, an
   - [Add more test cases](https://github.com/regstrtn/summer-coding/tree/master/instructions/git.md)
 
 ----------------
+
+{% include_relative instructions/perftable.md %}
