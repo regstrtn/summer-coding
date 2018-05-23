@@ -22,7 +22,6 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 ----------------
 
-
 #### 2. Assignment 2
   - [Submission Link](https://drive.google.com/open?id=1Yq4sCglGD9fa1TL27R-QB0gZpYCNoxkV) 
   - [Problem Statement](https://github.com/regstrtn/summer-coding/tree/master/a2)
@@ -30,3 +29,9 @@ Here you will find links to all the assignment problem statements, tutorials, an
 
 ----------------
 
+#### 2. Assignment 2
+  - [Submission Link](https://drive.google.com/open?id=1mPwYMY5JAfKse6ygQkv3ub3h_jTIYkhs) 
+  - [Problem Statement](https://github.com/regstrtn/summer-coding/tree/master/a3)
+  - [Add more test cases](https://github.com/regstrtn/summer-coding/tree/master/instructions/git.md)
+
+----------------
