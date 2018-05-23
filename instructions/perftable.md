@@ -17,7 +17,7 @@ The number of assignments is not fixed, but it will obviously be more than 5. :)
 | Basit Tanweer Karimi | 
 | Vaibhav Singh Jadon | 
 | Agnibha Roy | 
-| Vaibhav Agrawal | 
+| Vaibhav Agrawal | :white_check_mark: |
 | Khwahish | 
 | Aadi Swadipto Mondal | 
 | Vishal Kumar | 
